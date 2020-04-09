@@ -25,6 +25,8 @@ gem 'simple_form'
 
 gem 'bootstrap-sass'
 
+gem 'devise'
+
 gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
