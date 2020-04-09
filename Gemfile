@@ -21,6 +21,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'haml'
 
+gem 'paperclip'
+
 gem 'simple_form'
 
 gem 'bootstrap-sass'
